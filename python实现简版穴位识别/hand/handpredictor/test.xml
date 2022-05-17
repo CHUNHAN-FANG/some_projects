@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='test\Hand_0000639.jpg'>
+  </image>
+  <image file='test\Hand_0001089.jpg'>
+  </image>
+  <image file='test\Hand_0001278.jpg'>
+  </image>
+  <image file='test\Hand_0001780.jpg'>
+  </image>
+  <image file='test\Hand_0001800.jpg'>
+  </image>
+  <image file='test\Hand_0001802.jpg'>
+  </image>
+  <image file='test\Hand_0001850.jpg'>
+  </image>
+  <image file='test\Hand_0001941.jpg'>
+  </image>
+  <image file='test\Hand_0001958.jpg'>
+  </image>
+  <image file='test\Hand_0002030.jpg'>
+  </image>
+  <image file='test\Hand_0002081.jpg'>
+  </image>
+  <image file='test\Hand_0002154.jpg'>
+  </image>
+  <image file='test\Hand_0002281.jpg'>
+  </image>
+  <image file='test\Hand_0002429.jpg'>
+  </image>
+  <image file='test\Hand_0002434.jpg'>
+  </image>
+  <image file='test\Hand_0002603.jpg'>
+  </image>
+  <image file='test\Hand_0002607.jpg'>
+  </image>
+  <image file='test\Hand_0002830.jpg'>
+  </image>
+  <image file='test\Hand_0002839.jpg'>
+  </image>
+  <image file='test\Hand_0003141.jpg'>
+  </image>
+  <image file='test\Hand_0003213.jpg'>
+  </image>
+  <image file='test\Hand_0003259.jpg'>
+  </image>
+  <image file='test\Hand_0003322.jpg'>
+  </image>
+  <image file='test\Hand_0003349.jpg'>
+  </image>
+  <image file='test\Hand_0003457.jpg'>
+  </image>
+  <image file='test\Hand_0003463.jpg'>
+  </image>
+  <image file='test\Hand_0003531.jpg'>
+  </image>
+  <image file='test\Hand_0003611.jpg'>
+  </image>
+  <image file='test\Hand_0003762.jpg'>
+  </image>
+  <image file='test\Hand_0003783.jpg'>
+  </image>
+  <image file='test\Hand_0003859.jpg'>
+  </image>
+  <image file='test\Hand_0003985.jpg'>
+  </image>
+  <image file='test\Hand_0004023.jpg'>
+  </image>
+  <image file='test\Hand_0004103.jpg'>
+  </image>
+  <image file='test\Hand_0004153.jpg'>
+  </image>
+  <image file='test\Hand_0004250.jpg'>
+  </image>
+  <image file='test\Hand_0004346.jpg'>
+  </image>
+  <image file='test\Hand_0004407.jpg'>
+  </image>
+  <image file='test\Hand_0004466.jpg'>
+  </image>
+  <image file='test\Hand_0004482.jpg'>
+  </image>
+  <image file='test\Hand_0004582.jpg'>
+  </image>
+  <image file='test\Hand_0004597.jpg'>
+  </image>
+  <image file='test\Hand_0004951.jpg'>
+  </image>
+  <image file='test\Hand_0004982.jpg'>
+  </image>
+  <image file='test\Hand_0005024.jpg'>
+  </image>
+  <image file='test\Hand_0005094.jpg'>
+  </image>
+  <image file='test\Hand_0005118.jpg'>
+  </image>
+  <image file='test\Hand_0005155.jpg'>
+  </image>
+  <image file='test\Hand_0005189.jpg'>
+  </image>
+  <image file='test\Hand_0005235.jpg'>
+  </image>
+  <image file='test\Hand_0005237.jpg'>
+  </image>
+</images>
+</dataset>
